@@ -1,0 +1,9 @@
+Encodings: locale cp1255, fs utf-8, pref cp1255, out cp1255 (No ANSI), error cp1255 (No ANSI), screen cp1255 (No ANSI)
+yt-dlp version 2022.06.29 [9d339c4] (win32_dir)
+Python 3.8.10 (CPython 64bit) - Windows-10-10.0.19044-SP0 
+Checking exe version: ffmpeg -bsfs
+Checking exe version: ffprobe -bsfs
+exe versions: ffmpeg N-107281-ge4be88704f-2022-06-30-nonfree (fdk,setts), ffprobe N-107281-ge4be88704f-2022-06-30-nonfree, phantomjs 2.5.0, rtmpdump 2.3
+Optional libraries: Cryptodome-3.15.0, brotli-1.0.9, certifi-2022.06.15, mutagen-1.45.1, sqlite3-2.6.0, websockets-10.3
+Proxy map: {}
+

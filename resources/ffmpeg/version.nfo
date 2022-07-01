@@ -1,0 +1,11 @@
+ffmpeg version N-107281-ge4be88704f-2022-06-30-nonfree Copyright (c) 2000-2022 the FFmpeg developers
+built with gcc 10-win32 (GCC) 20220324
+configuration: --prefix=/ffbuild/prefix --pkg-config-flags=--static --pkg-config=pkg-config --cross-prefix=x86_64-w64-mingw32- --arch=x86_64 --target-os=mingw32 --enable-gpl --enable-version3 --disable-debug --enable-shared --disable-static --disable-doc --enable-nonfree --extra-version=2022-06-30-nonfree --disable-w32threads --enable-pthreads --enable-iconv --enable-libxml2 --enable-zlib --enable-libfreetype --enable-libfribidi --enable-gmp --enable-lzma --enable-fontconfig --enable-libvorbis --enable-opencl --enable-libvmaf --enable-amf --enable-libaom --enable-libaribb24 --enable-avisynth --enable-libdav1d --enable-libdavs2 --enable-decklink --enable-ffnvcodec --enable-cuda-llvm --enable-frei0r --enable-libgme --enable-libass --enable-libbluray --enable-libfdk-aac --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librist --enable-libtheora --enable-libvpx --enable-libwebp --enable-lv2 --enable-libmfx --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenh264 --enable-libopenjpeg --enable-libopenmpt --enable-librav1e --enable-librubberband --enable-schannel --enable-sdl2 --enable-libsoxr --enable-libsrt --enable-libsvtav1 --enable-libtwolame --enable-libuavs3d --enable-libvidstab --enable-vulkan --enable-libshaderc --enable-libplacebo --enable-libx264 --enable-libx265 --enable-libxavs2 --enable-libxvid --enable-libzimg --enable-libzvbi --extra-cflags=-DLIBTWOLAME_STATIC --extra-cxxflags= --extra-ldflags=-pthread --extra-libs=-lgomp
+libavutil      57. 27.100 / 57. 27.100
+libavcodec     59. 35.100 / 59. 35.100
+libavformat    59. 25.100 / 59. 25.100
+libavdevice    59.  6.100 / 59.  6.100
+libavfilter     8. 41.100 /  8. 41.100
+libswscale      6.  6.100 /  6.  6.100
+libswresample   4.  6.100 /  4.  6.100
+libpostproc    56.  5.100 / 56.  5.100

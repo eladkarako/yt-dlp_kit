@@ -1,0 +1,21 @@
+*.exe            binary
+*.dll            binary
+*.pyd            binary
+*.gif            binary
+*.png            binary
+
+
+*.manifest       text    eol=crlf
+*.ini            text    eol=crlf
+*.xml            text    eol=crlf
+*.cfg            text    eol=crlf
+*.conf           text    eol=crlf
+*.config         text    eol=crlf
+*.html           text    eol=crlf
+*.cmd            text    eol=crlf
+*.bat            text    eol=crlf
+*.js             text    eol=crlf
+
+*.txt            text    eol=crlf
+*.md                     eol=crlf
+README.md                eol=crlf
